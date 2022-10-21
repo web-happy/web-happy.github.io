@@ -28,7 +28,7 @@ body {
 }
 #mainlogolayout {
   padding-top: 5px;
-  position: absolute;
+  position: fixed;
   background-color: transparent;
 }
 #topbuttons {
